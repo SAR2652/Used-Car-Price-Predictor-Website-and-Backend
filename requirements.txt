@@ -1,0 +1,9 @@
+django==2.0
+scikit-learn
+xgboost
+numpy
+scipy
+matplotlib
+seaborn
+tensorflow
+keras
